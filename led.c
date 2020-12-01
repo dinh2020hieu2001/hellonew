@@ -17,4 +17,3 @@ int i ;
 		}
 }
 
-//hieu dep trai khong chui duoc
