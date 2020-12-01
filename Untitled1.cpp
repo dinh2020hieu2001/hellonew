@@ -30,15 +30,6 @@ public :
 		return x;
 	}
 	
-	double getY(){
-		return y;
-	}
-	
-	void setXY(double x, double y){
-		this->x = x;
-		this->y = y;
-	}
-	
 	double distance(double x, double y){
 		return sqrt((x-this->x)*(x-this->x) + (y -this->y)*(y -this->y));
 	}
