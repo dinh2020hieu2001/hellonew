@@ -17,3 +17,5 @@ int i ;
 		}
 }
 
+
+//khong lam ma doi co an chi co a cut
